@@ -1,0 +1,7 @@
+{
+  "name": "Chef Mate - Intelligent Cooking Assistant",
+  "description": "Your friendly AI cooking companion for tasty, healthy, and affordable meals. Get recipes based on ingredients, dietary preferences, and skill level.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
